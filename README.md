@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 
 ## :knife: utils
 
-- [legnoh/asken-exporter](https://github.com/legnoh/asken-exporter)
-- [legnoh/countdown-exporter](https://github.com/legnoh/countdown-exporter)
 - [legnoh/homebrew-etc](https://github.com/legnoh/homebrew-etc)
 - [legnoh/homerouter-settings](https://github.com/legnoh/homerouter-settings)
 - [legnoh/life-metrics-grafana-deployment](https://github.com/legnoh/life-metrics-grafana-deployment)
