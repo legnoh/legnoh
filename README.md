@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 - I'm CI/CD(DevOps) Engineer in :jp:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=legnoh" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legnoh&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=legnoh&theme=tokyonight" />
 
 ## :octocat: dotfiles
 
