@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - I'm CI/CD(DevOps) Engineer in :jp:
 
-## :red_heart: dotfiles
+## :octocat: dotfiles
 
 - [legnoh/dotfiles: ٩( 'ω' )و MY DOTFILES ٩( 'ω' )و](https://github.com/legnoh/dotfiles)
 
@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 - [legnoh/homebridge-daikin-air-purifier](https://github.com/legnoh/homebridge-daikin-air-purifier)(EOL)
 - [legnoh/homebridge-soma-ctrl](https://github.com/legnoh/homebridge-soma-ctrl)(EOL)
 
-## :mobile_phone: mobile app
+## :iphone: mobile app
 
 - [legnoh/ledoxea: 3D View's e-learning searcher in Android/Adobe AIR with Away3D](https://github.com/legnoh/ledoxea)
