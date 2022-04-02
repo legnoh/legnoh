@@ -11,8 +11,7 @@
 <a href="https://fb.com/legnoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="legnoh" height="30" width="40" /></a>
 <a href="https://instagram.com/legnoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="legnoh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCRFk3yj5FbJIJz4P9FHAI6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="legnoh2nd" height="30" width="40" /></a>
-<a href="https://discord.gg/legnoh#1816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="legnoh#1816" height="30" width="40" /></a>
-<a href="/https://leglog.lkj.io/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://leglog.lkj.io/rss.xml" height="30" width="40" /></a>
+<a href="https://leglog.lkj.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://leglog.lkj.io/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
