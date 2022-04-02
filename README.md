@@ -33,7 +33,7 @@
 ### :knife: utils
 
 - [legnoh/homebrew-etc](https://github.com/legnoh/homebrew-etc)
-- [legnoh/homerouter-settings](https://github.com/legnoh/homerouter-settings)
+- [legnoh/homerouter-settings](https://github.com/legnoh/homerouter-settings)(TBD)
 - [legnoh/life-metrics-grafana-deployment](https://github.com/legnoh/life-metrics-grafana-deployment)
 - [legnoh/lohaco-auto-buyer](https://github.com/legnoh/lohaco-auto-buyer)
 - [legnoh/unixtime-jp.popclipext](https://github.com/legnoh/unixtime-jp.popclipext) (EOL)
