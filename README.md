@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 - I'm CI/CD(DevOps) Engineer in :jp:
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=legnoh" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legnoh&layout=compact" />
+
 ## :octocat: dotfiles
 
 - [legnoh/dotfiles: ٩( 'ω' )و MY DOTFILES ٩( 'ω' )و](https://github.com/legnoh/dotfiles)
