@@ -3,7 +3,7 @@
 - I'm CI/CD(DevOps) Engineer in :jp:
 
 ![legnoh's github stats](https://github-readme-stats.vercel.app/api?username=legnoh&show_icons=true&count_private=true&theme=tokyonight&line_height=28)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legnoh&theme=tokyonight&hide=javascript,php&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legnoh&theme=tokyonight&layout=compact&langs_count=10)
 
 
 <h3 align="left">Connect with me:</h3>
