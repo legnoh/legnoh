@@ -2,7 +2,9 @@
 
 - I'm CI/CD(DevOps) Engineer in :jp:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=legnoh&theme=tokyonight" />
+![legnoh's github stats](https://github-readme-stats.vercel.app/api?username=legnoh&show_icons=true&count_private=true&line_height=40&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legnoh&theme=tokyonight)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
