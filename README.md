@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 
 ## :iphone: mobile app
 
-- [legnoh/ledoxea: 3D View's e-learning searcher in Android/Adobe AIR with Away3D](https://github.com/legnoh/ledoxea)
+- [legnoh/ledoxea: 3D View's e-learning searcher in Android/Adobe AIR with Away3D](https://github.com/legnoh/ledoxea)(EOL)
