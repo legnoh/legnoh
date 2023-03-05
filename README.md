@@ -26,8 +26,7 @@
 
 ### :notebook: site
 
-- [legnoh/leglog: legnoh's life log :)](https://github.com/legnoh/leglog)
-- [legnoh/legwiki: legnoh's life wiki :)](https://github.com/legnoh/legwiki)
+- [legnoh/legwiki](https://github.com/legnoh/legwiki)
 - [legnoh/concourse-tutorial](https://github.com/legnoh/concourse-tutorial) (jp site: EOL)
 - [legnoh/yj-holiday](https://github.com/legnoh/yj-holiday)
 
