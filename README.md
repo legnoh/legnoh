@@ -29,12 +29,13 @@
 - [legnoh/legwiki](https://github.com/legnoh/legwiki)
 - [legnoh/concourse-tutorial](https://github.com/legnoh/concourse-tutorial) (jp site: EOL)
 - [legnoh/yj-holiday](https://github.com/legnoh/yj-holiday)
+- [legnoh/ly-holiday](https://github.com/legnoh/ly-holiday)
 
 ### :knife: utils
 
+- [legnoh/focus-cli: Get macOS Focus mode via CLI](https://github.com/legnoh/focus-cli)
 - [legnoh/homebrew-etc](https://github.com/legnoh/homebrew-etc)
-- [legnoh/homerouter-settings](https://github.com/legnoh/homerouter-settings)(TBD)
-- [legnoh/life-metrics-grafana-deployment](https://github.com/legnoh/life-metrics-grafana-deployment)
+- [legnoh/life-dashboard](https://github.com/legnoh/life-dashboard)
 - [legnoh/lohaco-auto-buyer](https://github.com/legnoh/lohaco-auto-buyer)
 - [legnoh/unixtime-jp.popclipext](https://github.com/legnoh/unixtime-jp.popclipext) (EOL)
 
@@ -44,8 +45,9 @@
 - [legnoh/countdown-exporter](https://github.com/legnoh/countdown-exporter)
 - [legnoh/moneyforward-exporter](https://github.com/legnoh/moneyforward-exporter)
 - [legnoh/openweather-exporter](https://github.com/legnoh/openweather-exporter)
+- [legnoh/reminders-exporter](https://github.com/legnoh/reminders-exporter)
 - [legnoh/smartmeter-exporter](https://github.com/legnoh/smartmeter-exporter)
-- [legnoh/todoist-exporter](https://github.com/legnoh/todoist-exporter)
+- [legnoh/todoist-exporter](https://github.com/legnoh/todoist-exporter) (EOL)
 - [legnoh/withings-exporter](https://github.com/legnoh/withings-exporter)
 
 ### :video_game: gaming tools
@@ -59,6 +61,8 @@
 ### :house: IoT solutions
 
 - [legnoh/go-sesame: Golang client library for Sesame smart lock](https://github.com/legnoh/go-sesame)(EOL)
+- [legnoh/hap-nature-remo: Nature Remo HomeKit Bridge](https://github.com/legnoh/hap-nature-remo)
+- [legnoh/hap-switch-command](https://github.com/legnoh/hap-switch-command)
 - [legnoh/hc-http-switch: simple switch http client for Apple Homekit Accessory Protocol(HAP)](https://github.com/legnoh/hc-http-switch)(EOL)
 - [legnoh/homebridge-daikin-air-purifier](https://github.com/legnoh/homebridge-daikin-air-purifier)(EOL)
 - [legnoh/homebridge-soma-ctrl](https://github.com/legnoh/homebridge-soma-ctrl)(EOL)
