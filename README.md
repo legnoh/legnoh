@@ -1,72 +1,77 @@
-### Hi there 👋
+# Ryoma Kai
 
-- I'm CI/CD(DevOps) Engineer in :jp:
+**DevOps engineer at LY Corporation · Tokyo, Japan**
 
-![legnoh's github stats](https://github-readme-stats.vercel.app/api?username=legnoh&show_icons=true&count_private=true&theme=tokyonight&line_height=28)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legnoh&theme=tokyonight&layout=compact&langs_count=10)
+I build and operate reliable systems, and enjoy bringing the same observability and automation to everyday life.
 
+日々のシステム運用から、健康データやスマートホームまで。身近なものをつなぎ、見える化するツールを作っています。
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/legnoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="legnoh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/legnoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="legnoh" height="30" width="40" /></a>
-<a href="https://fb.com/legnoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="legnoh" height="30" width="40" /></a>
-<a href="https://instagram.com/legnoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="legnoh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCRFk3yj5FbJIJz4P9FHAI6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="legnoh2nd" height="30" width="40" /></a>
-<a href="https://leglog.lkj.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://leglog.lkj.io/rss.xml" height="30" width="40" /></a>
-</p>
+## What I build
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Personal observability
 
+Small services that turn useful APIs into Prometheus metrics:
 
-### :octocat: dotfiles
+- [oura-exporter](https://github.com/legnoh/oura-exporter) — Oura Ring activity, readiness, and sleep data
+- [withings-exporter](https://github.com/legnoh/withings-exporter) — Withings health, activity, and sleep data
+- [asken-exporter](https://github.com/legnoh/asken-exporter) — meal and nutrition data from あすけん
+- [moneyforward-exporter](https://github.com/legnoh/moneyforward-exporter) — Money Forward ME data
+- [google-pollen-exporter](https://github.com/legnoh/google-pollen-exporter) — Google Pollen API data
+- [reminders-exporter](https://github.com/legnoh/reminders-exporter) — Apple Reminders data
 
-- [legnoh/dotfiles: ٩( 'ω' )و MY DOTFILES ٩( 'ω' )و](https://github.com/legnoh/dotfiles)
+I bring several of these projects together in [life-dashboard](https://github.com/legnoh/life-dashboard), my personal Prometheus and Grafana setup for bringing life metrics and information together.
 
-### :notebook: site
+### Home automation & small tools
 
-- [legnoh/legwiki](https://github.com/legnoh/legwiki)
-- [legnoh/concourse-tutorial](https://github.com/legnoh/concourse-tutorial) (jp site: EOL)
-- [legnoh/yj-holiday](https://github.com/legnoh/yj-holiday)
-- [legnoh/ly-holiday](https://github.com/legnoh/ly-holiday)
+- [hap-nature-remo](https://github.com/legnoh/hap-nature-remo) — Nature Remo bridge for Apple HomeKit
+- [hap-switch-command](https://github.com/legnoh/hap-switch-command) — control HomeKit switches from the command line
+- [focus-cli](https://github.com/legnoh/focus-cli) — check the current macOS Focus mode from the command line
 
-### :knife: utils
+### Personal setup
 
-- [legnoh/focus-cli: Get macOS Focus mode via CLI](https://github.com/legnoh/focus-cli)
-- [legnoh/homebrew-etc](https://github.com/legnoh/homebrew-etc)
-- [legnoh/life-dashboard](https://github.com/legnoh/life-dashboard)
-- [legnoh/lohaco-auto-buyer](https://github.com/legnoh/lohaco-auto-buyer)
-- [legnoh/unixtime-jp.popclipext](https://github.com/legnoh/unixtime-jp.popclipext) (EOL)
+- [dotfiles](https://github.com/legnoh/dotfiles) — my personal shell and development environment configuration
 
-### :bar_chart: Prometheus Exporter
+## Earlier projects
 
-- [legnoh/asken-exporter](https://github.com/legnoh/asken-exporter)
-- [legnoh/countdown-exporter](https://github.com/legnoh/countdown-exporter)
-- [legnoh/moneyforward-exporter](https://github.com/legnoh/moneyforward-exporter)
-- [legnoh/openweather-exporter](https://github.com/legnoh/openweather-exporter)
-- [legnoh/reminders-exporter](https://github.com/legnoh/reminders-exporter)
-- [legnoh/smartmeter-exporter](https://github.com/legnoh/smartmeter-exporter)
-- [legnoh/todoist-exporter](https://github.com/legnoh/todoist-exporter) (EOL)
-- [legnoh/withings-exporter](https://github.com/legnoh/withings-exporter)
+I have been making small tools across home automation, monitoring, and personal interests for years. Some are archived or no longer maintained; they remain here as a record of what I have explored.
 
-### :video_game: gaming tools
+<details>
+<summary>Browse earlier projects</summary>
 
-- [legnoh/tweet-twitch-stream](https://github.com/legnoh/tweet-twitch-stream)
-- [legnoh/tweet-youtube-stream](https://github.com/legnoh/tweet-youtube-stream)
-- [legnoh/uma-friend](https://github.com/legnoh/uma-friend)
-- [legnoh/uma-tweet](https://github.com/legnoh/uma-tweet)
-- [legnoh/wlw-locate-kml](https://github.com/legnoh/wlw-locate-kml)
+### Monitoring & metrics
 
-### :house: IoT solutions
+- [countdown-exporter](https://github.com/legnoh/countdown-exporter) — Prometheus exporter for countdown data (archived)
+- [todoist-exporter](https://github.com/legnoh/todoist-exporter) — Todoist metrics exporter (archived)
+- [homes-archive-exporter](https://github.com/legnoh/homes-archive-exporter) — exporter for archived homes data (archived)
+- [numerics_exporter](https://github.com/legnoh/numerics_exporter) — an earlier metrics-exporter experiment (archived)
 
-- [legnoh/go-sesame: Golang client library for Sesame smart lock](https://github.com/legnoh/go-sesame)(EOL)
-- [legnoh/hap-nature-remo: Nature Remo HomeKit Bridge](https://github.com/legnoh/hap-nature-remo)
-- [legnoh/hap-switch-command](https://github.com/legnoh/hap-switch-command)
-- [legnoh/hc-http-switch: simple switch http client for Apple Homekit Accessory Protocol(HAP)](https://github.com/legnoh/hc-http-switch)(EOL)
-- [legnoh/homebridge-daikin-air-purifier](https://github.com/legnoh/homebridge-daikin-air-purifier)(EOL)
-- [legnoh/homebridge-soma-ctrl](https://github.com/legnoh/homebridge-soma-ctrl)(EOL)
+### Infrastructure experiments
 
-### :iphone: mobile app
+- [cf-certbot-challenger](https://github.com/legnoh/cf-certbot-challenger) — try Let's Encrypt ACME challenges on Cloud Foundry (archived)
+- [concourse-lite-deployment](https://github.com/legnoh/concourse-lite-deployment) — a lightweight Concourse CI deployment experiment (archived)
 
-- [legnoh/ledoxea: 3D View's e-learning searcher in Android/Adobe AIR with Away3D](https://github.com/legnoh/ledoxea)(EOL)
+### HomeKit & home lab
+
+- [go-sesame](https://github.com/legnoh/go-sesame) — Go client library for Sesame smart locks (archived)
+- [hc-http-switch](https://github.com/legnoh/hc-http-switch) — HTTP client for Apple HomeKit Accessory Protocol switches (archived)
+- [hc-sesame](https://github.com/legnoh/hc-sesame) — Sesame-to-HomeKit experiment (archived)
+- [homebridge-daikin-air-purifier](https://github.com/legnoh/homebridge-daikin-air-purifier) — Homebridge plugin for a Daikin air purifier (archived)
+- [homebridge-soma-ctrl](https://github.com/legnoh/homebridge-soma-ctrl) — Homebridge plugin for SOMA devices (archived)
+- [raspfiles](https://github.com/legnoh/raspfiles) — Raspberry Pi setup notes for my home (archived)
+
+### Web, utilities & hobbies
+
+- [yj-holiday](https://github.com/legnoh/yj-holiday) — Japanese holiday calendar data for Yahoo Japan (archived)
+- [tweet-twitch-stream](https://github.com/legnoh/tweet-twitch-stream) and [tweet-youtube-stream](https://github.com/legnoh/tweet-youtube-stream) — livestream notification tools (archived)
+- [uma-friend](https://github.com/legnoh/uma-friend) and [uma-tweet](https://github.com/legnoh/uma-tweet) — small Uma Musume community tools (archived)
+- [ledoxea](https://github.com/legnoh/ledoxea) — 3D e-learning search tool built with Away3D (archived)
+- [leglog](https://github.com/legnoh/leglog) — personal life log (archived)
+
+</details>
+
+## Elsewhere
+
+- [legwiki](https://legwiki.lkj.io/) — my personal wiki
+- [GitHub](https://github.com/legnoh)
+
+My repositories are personal projects, built independently from my professional work.
